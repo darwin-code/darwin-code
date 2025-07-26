@@ -25,7 +25,7 @@
 - 🛠️ **Stack principal:** _Java · Node.js · NestJS · TypeScript · Angular · React · LitElement · PostgreSQL_  
 - 🌱 **Actualmente aprendiendo:** _Kafka · Microservicios avanzados · DevOps_  
 - 🤝 **Abierto a colaborar** en proyectos **Open Source** relacionados con salud, educación o impacto social  
-- ☕ **☕ **Dato curioso:** Me apasiona aprender cosas nuevas cada semana, resolver problemas reales con código limpio y dejar todo mejor de lo que lo encontré.
+- ☕ **Dato curioso:** Me apasiona aprender cosas nuevas cada semana, resolver problemas reales con código limpio y dejar todo mejor de lo que lo encontré.
 
 ---
 
