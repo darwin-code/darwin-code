@@ -30,6 +30,7 @@
 ---
 
 ## 🚀 Tech Stack
+<div align="center">
 
 | 💻 Categoría | 🚀 Tecnologías |
 |-------------|----------------|
@@ -41,6 +42,7 @@
 | **Herramientas** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 
 ---
+</div>
 
 ## 📈 GitHub Stats
 
