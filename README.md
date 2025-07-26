@@ -61,7 +61,8 @@
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 Proyectos Destacados 
+<div align="center">
 
 | 🔗 Repositorio | 📝 Descripción | 💡 Tecnologías |
 |---------------|----------------|----------------|
@@ -72,6 +73,7 @@
 | [**Random User List**](https://github.com/darwin-code/Random-User-List) | Lista de usuarios aleatorios desde API pública, renderizada dinámicamente en tabla. | HTML · CSS · JavaScript |
 
 ---
+</div>
 
 ## 📫 Contacto
 
