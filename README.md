@@ -22,7 +22,7 @@
 ## 🧑‍💻 Sobre mí
 
 - 🎓 **Título/Certificaciones:** _Estudiante de Ingeniería en Software / Certificaciones en desarrollo web y bases de datos_  
-- 🛠️ **Stack principal:** _Node.js · NestJS · TypeScript · Angular · PostgreSQL_  
+- 🛠️ **Stack principal:** _Java · Node.js · NestJS · TypeScript · Angular · React · LitElement · PostgreSQL_  
 - 🌱 **Actualmente aprendiendo:** _Kafka · Microservicios avanzados · DevOps_  
 - 🤝 **Abierto a colaborar** en proyectos **Open Source** relacionados con salud, educación o impacto social  
 - ☕ **Dato curioso:** Siempre tengo abierto un tablero de Trello y una taza de café
@@ -33,8 +33,8 @@
 
 | 💻 Categoría | 🚀 Tecnologías |
 |-------------|----------------|
-| **Frontend** | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) |
+| **Frontend** | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![LitElement](https://img.shields.io/badge/-LitElement-324fff?logo=webcomponents.org&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) |
 | **Bases de datos** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
 | **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white) |
 | **Testing** | ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress) |
