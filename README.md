@@ -1,5 +1,5 @@
 <!-- 👋 Intro rápida -->
-<h1 align="center">Hola, soy Darwin 👋</h1>
+<h1 align="center">Hola, soy Darwin Toapanta 👋</h1>
 
 <!-- Descripción corta -->
 <p align="center">
@@ -9,19 +9,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DarwinUsuario">
-    <img src="https://img.shields.io/github/followers/DarwinUsuario?label=Seguidores&style=social" alt="followers"/>
+  <a href="https://github.com/darwin-code">
+    <img src="https://img.shields.io/github/followers/darwin-code?label=Seguidores&style=social" alt="followers"/>
   </a>
-  <a href="https://twitter.com/TwitterDeDarwin">
-    <img src="https://img.shields.io/twitter/follow/TwitterDeDarwin?style=social" alt="Twitter Follow"/>
+  <a href="https://www.instagram.com/andres._.t/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram Follow"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=DarwinUsuario&style=flat&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=darwin-code&style=flat&color=blue" alt="Profile views"/>
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mí
-- 🎓 **Título/Certificaciones:** _Ing. en ... / Certificado AWS Developer Associate_  
+- 🎓 **Título/Certificaciones:** _Estudiante de Ingeniería en Software / Certificaciones en desarrollo web y bases de datos_  
 - 🛠️ **Stack principal:** _Node.js · NestJS · TypeScript · Angular · PostgreSQL_  
 - 🌱 **Actualmente aprendiendo:** _Kafka · Microservicios avanzados · DevOps_  
 - 🤝 **Abierto a colaborar** en proyectos **Open Source** relacionados con salud, educación o impacto social.  
@@ -44,38 +44,39 @@
 
 ## 📈 Estadísticas GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarwinUsuario&show_icons=true&theme=github_dark&hide_border=true"  height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarwinUsuario&layout=compact&theme=github_dark&hide_border=true&langs_count=6">
+  <img src="https://github-readme-stats.vercel.app/api?username=darwin-code&show_icons=true&theme=github_dark&hide_border=true"  height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwin-code&layout=compact&theme=github_dark&hide_border=true&langs_count=6">
 </p>
 
 ---
 
 ## 🏆 Trofeos & streak
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarwinUsuario&theme=onedark&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=darwin-code&theme=onedark&no-frame=true&row=1&column=7"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=DarwinUsuario&theme=github-dark-blue&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=darwin-code&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
 
 ## 📂 Proyectos Destacados
-<!-- Reemplaza los enlaces y descripciones con tus repos favoritos -->
+
 | Repo | Descripción | Tecnologías |
 |------|-------------|-------------|
-| [**microservices-kafka-demo**](https://github.com/DarwinUsuario/microservices-kafka-demo) | Ejemplo de arquitectura de microservicios con Kafka, NestJS y PostgreSQL | NestJS · Kafka · Docker |
-| [**chatbot-whatsapp**](https://github.com/DarwinUsuario/chatbot-whatsapp) | Chatbot para WhatsApp con Node.js, NLP y Twilio | Node.js · Twilio · NLP |
-| [**flutter-iot-dashboard**](https://github.com/DarwinUsuario/flutter-iot-dashboard) | Aplicación móvil Flutter para monitoreo IoT en tiempo real | Flutter · Firebase |
+| [**microservices-kafka-demo**](https://github.com/darwin-code/microservices-kafka-demo) | Ejemplo de arquitectura de microservicios con Kafka, NestJS y PostgreSQL | NestJS · Kafka · Docker |
+| [**chatbot-whatsapp**](https://github.com/darwin-code/chatbot-whatsapp) | Chatbot para WhatsApp con Node.js, NLP y Twilio | Node.js · Twilio · NLP |
+| [**flutter-iot-dashboard**](https://github.com/darwin-code/flutter-iot-dashboard) | Aplicación móvil Flutter para monitoreo IoT en tiempo real | Flutter · Firebase |
 
 ---
 
 ## 📫 Contacto
 <p align="center">
-  <a href="mailto:darwin.dev@example.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/DarwinUsuario/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/TwitterDeDarwin"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
+  <a href="mailto:andrestpaez15@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/darwin-toapanta-19024b303/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/andres._.t/"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white"></a>
 </p>
+
 
 ---
 
-> _“El software es una gran combinación entre arte y ciencia.”_ — Bill Gates
+> _“Para todo hay solución menos para la muerte.”_
